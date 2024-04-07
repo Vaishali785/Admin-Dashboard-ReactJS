@@ -1,0 +1,9 @@
+const ORDER_DETAILS =
+    [{ "order_id": "OD104", "machine_name": 47, "customer_name": "Lauree Sisey", "customer_contact": "6899348618", "date": "5/18/2023", "time": "6:08:27", "status": "success", "customer_email": "lsisey0@phoca.cz", "order_items": ["C101", "C102", "C105"], "payment_id": "TX8486413744" },
+    { "order_id": "OD112", "machine_name": 19, "customer_name": "Elsey Goldis", "customer_contact": "7982594904", "date": "8/30/2023", "time": "1:22:50", "status": "failure", "customer_email": "egoldis1@twitpic.com", "order_items": ["C110", "C109", "C105"], "payment_id": "TX0078548028" },
+    { "order_id": "OD114", "machine_name": 59, "customer_name": "Gareth Edgehill", "customer_contact": "1878867648", "date": "2/2/2024", "time": "6:17:42", "status": "success", "customer_email": "gedgehill2@kickstarter.com", "order_items": ["C101", "C102", "C105"], "payment_id": "TX8996932051" },
+    { "order_id": "OD140", "machine_name": 23, "customer_name": "Margarete Ondrousek", "customer_contact": "7608841889", "date": "9/18/2023", "time": "15:15:29", "status": "sent", "customer_email": "mondrousek3@lycos.com", "order_items": ["C103", "C104", "C108"], "payment_id": "TX1823134911" },
+    { "order_id": "OD133", "machine_name": 61, "customer_name": "Mia Ffrench", "customer_contact": "7715622697", "date": "8/26/2023", "time": "17:49:21", "status": "refund completed", "customer_email": "mffrenchq@netscape.com", "order_items": ["C101", "C103", "C105"], "payment_id": "TX5326024007" },
+    { "order_id": "OD141", "machine_name": 48, "customer_name": "Otis Orriss", "customer_contact": "9053792380", "date": "10/10/2023", "time": "15:41:59", "status": "pending", "customer_email": "oorriss1d@google.fr", "order_items": ["C101", "C102", "C105"], "payment_id": "TX5981649843" }]
+
+export default ORDER_DETAILS 

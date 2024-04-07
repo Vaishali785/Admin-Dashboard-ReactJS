@@ -1,0 +1,18 @@
+.success{
+    @apply border-[#53A450] border-[1px] text-[#53A450] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
+.failure{
+    @apply border-[#FF5630] border-[1px] text-[#FF5630] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
+.sent{
+    @apply border-[#E28800] border-[1px] text-[#E28800] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
+.pending{
+    @apply border-[#E2D900] border-[1px] text-[#E2D900] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
+.refund_initiated{
+    @apply border-[#5053A4] border-[1px] text-[#5053A4] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
+.refund_completed{
+    @apply border-[#9D50A4] border-[1px] text-[#9D50A4] font-bold text-[11px] px-[11.5px] py-[.4rem] w-fit rounded-[32px] text-center uppercase leading-[18px];
+}
